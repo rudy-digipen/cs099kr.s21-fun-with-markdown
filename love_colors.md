@@ -13,3 +13,5 @@ Blue
 Indigo
 
 Violet
+
+Black
