@@ -1,5 +1,5 @@
 
-#rock
+#rock  
 queen
 acdc
 oasis
@@ -8,7 +8,7 @@ muse
 artic monkeys
 car seat headrest
 
-#pop
+#pop  
 django django
 frank ocean
 gorillaz
@@ -16,7 +16,7 @@ dua lipa
 charli xcx
 carly rae jepsen
 
-#hip hop
+#hip hop  
 kanye west
 kendrick lamar
 tyler, the creator
